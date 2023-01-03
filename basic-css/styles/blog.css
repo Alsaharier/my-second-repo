@@ -1,0 +1,22 @@
+h3{
+    color: magenta;
+}
+
+p{
+    color: violet;
+}
+/* .title-page{ 
+    color: tomato;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+ } */
+
+.header{
+    height: 200px;
+    /* background-image: url('grandma.jpg'); */
+    background-image: url('/image/icon.png');
+    background-position: 30%;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
